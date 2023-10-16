@@ -2068,5 +2068,5 @@ contributors = [
     id: 426,
     fullname: "Syeda Qurat ul Ain",
     username: "https://github.com/Ainyana",
-  },
+  }
 ];
